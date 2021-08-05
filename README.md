@@ -12,3 +12,7 @@ CTRL+Q: "fold all"
 ```
 
 Keep in mind this is still an an unofficial editor and unexpected issues may arise.
+
+# Install
+Install by placing this link in `Extensions -> Import Extension` in the main view.
+https://listed.to/p/41tHlBQwHg
